@@ -1,0 +1,492 @@
+{
+  "common": {
+    "theme": {
+      "fontFamily": "Inter",
+      "displayFontFamily": "Plus Jakarta Sans"
+    },
+    "Footer": {
+      "logoPath": "/main logo/header logo.webp",
+      "logoAlt": "Axon NeuroSurgical - Evidence-Based Brain, Nerve and Spine Specialists",
+      "brandSummary": "Fellowship-trained neurosurgeons delivering minimally invasive spine surgery, cranial microsurgery, and image-guided neurological care.",
+      "quickLinksTitle": "Quick Links",
+      "quickLinks": [
+        {
+          "label": "Home",
+          "href": "/#hero"
+        },
+        {
+          "label": "Surgical Team",
+          "href": "/#about"
+        },
+        {
+          "label": "Why Axon",
+          "href": "/#why-choose-us"
+        },
+        {
+          "label": "Patient Outcomes",
+          "href": "/#testimonials"
+        },
+        {
+          "label": "Common FAQs",
+          "href": "/#faq"
+        }
+      ],
+      "usefulLinksTitle": "Neuro Specialties",
+      "usefulLinks": [
+        {
+          "label": "Cranial Microsurgery",
+          "href": "/#services"
+        },
+        {
+          "label": "Minimally Invasive Spine",
+          "href": "/#services"
+        },
+        {
+          "label": "Cerebrovascular Care",
+          "href": "/#services"
+        },
+        {
+          "label": "Peripheral Nerve Repair",
+          "href": "/#services"
+        },
+        {
+          "label": "Request Second Opinion",
+          "href": "/#contact"
+        }
+      ],
+      "contactTitle": "Visit & Contact",
+      "phone": "+1 00000 00000",
+      "email": "info@xyz.com",
+      "address": "123 Main St, New York, NY, USA",
+      "hours": "Mon – Sat: 8:00 AM – 6:30 PM",
+      "copyrightText": "© 2026 Axon NeuroSurgical. All rights reserved. Powered by Lestow"
+    }
+  },
+  "categories": {
+    "NeuroSurgical": {
+      "sections": {
+        "Header": {
+          "variants": {
+            "NeuroSurgicalHeader2": {
+              "logoPath": "/main logo/header logo.webp",
+              "logoAlt": "Axon NeuroSurgical - Brain, Nerve and Spine Specialists",
+              "brandName": "Axon NeuroSurgical",
+              "navLinks": [
+                {
+                  "label": "Home",
+                  "href": "/#hero"
+                },
+                {
+                  "label": "About",
+                  "href": "/#about"
+                },
+                {
+                  "label": "Specialties",
+                  "href": "/#services"
+                },
+                {
+                  "label": "Standards",
+                  "href": "/#why-choose-us"
+                },
+                {
+                  "label": "Outcomes",
+                  "href": "/#testimonials"
+                },
+                {
+                  "label": "FAQ",
+                  "href": "/#faq"
+                }
+              ],
+              "ctaLabel": "Book Consultation",
+              "ctaHref": "/#contact",
+              "mobileMenuOpenLabel": "Open navigation menu",
+              "mobileMenuCloseLabel": "Close navigation menu"
+            }
+          }
+        },
+        "Hero": {
+          "variants": {
+            "NeuroSurgicalHero2": {
+              "badge": "Board-Certified Brain & Spine Surgeons",
+              "titlePrefix": "Precision",
+              "titleHighlight": "Neurosurgery,",
+              "titleSuffix": "Guided by Science.",
+              "description": "At Axon NeuroSurgical, we combine high-field 3T MRI neuronavigation with minimally invasive microsurgical techniques to treat complex brain, nerve, and spine conditions with shorter recovery.",
+              "primaryCtaLabel": "Schedule Evaluation",
+              "primaryCtaHref": "/#contact",
+              "secondaryCtaLabel": "Explore Specialties",
+              "secondaryCtaHref": "/#services",
+              "doctorImage": "/hero/axon-hero-surgeon.webp",
+              "doctorImageAlt": "Lead Neurosurgeon at Axon NeuroSurgical",
+              "metrics": [
+                {
+                  "id": "metric-years",
+                  "value": "22+",
+                  "label": "Years Surgical Experience"
+                },
+                {
+                  "id": "metric-procedures",
+                  "value": "8,400+",
+                  "label": "Microsurgical Procedures"
+                },
+                {
+                  "id": "metric-rating",
+                  "value": "4.9 / 5",
+                  "label": "Patient Outcome Score"
+                }
+              ]
+            }
+          }
+        },
+        "AboutUs": {
+          "variants": {
+            "NeuroSurgicalAboutUs2": {
+              "eyebrow": "About Axon NeuroSurgical",
+              "title": "Evidence-Based Brain, Nerve & Spine Care Without Unnecessary Intervention",
+              "description": "Our multidisciplinary neurosurgical team reviews every MRI and clinical history in depth—prioritizing conservative therapy whenever effective, and utilizing sub-millimeter microsurgical navigation when surgery is the safest path.",
+              "image": "/about/axon-about-team.jpg",
+              "imageAlt": "Multidisciplinary neurosurgical team at Axon NeuroSurgical",
+              "statValue": "99.1%",
+              "statLabel": "Surgical Precision Rate",
+              "pillars": [
+                {
+                  "id": "pillar-navigation",
+                  "icon": "scan",
+                  "title": "3D Neuronavigation",
+                  "description": "Real-time intraoperative MRI mapping protects critical motor and speech pathways."
+                },
+                {
+                  "id": "pillar-minimal",
+                  "icon": "heart",
+                  "title": "Minimally Invasive Spine",
+                  "description": "Tubular micro-incisions preserve healthy muscle tissue and speed up mobility."
+                },
+                {
+                  "id": "pillar-team",
+                  "icon": "shield",
+                  "title": "Fellowship-Trained Team",
+                  "description": "Dedicated cranial, spinal, and peripheral nerve surgeons collaborating on one plan."
+                }
+              ]
+            }
+          }
+        },
+        "Services": {
+          "variants": {
+            "NeuroSurgicalServices2": {
+              "eyebrow": "Neurosurgical Specialties",
+              "title": "Focused Surgical & Non-Surgical Neurological Care",
+              "subtitle": "Subspecialty expertise across cranial microsurgery, complex spine stabilization, and peripheral nerve decompression.",
+              "prevAriaLabel": "Previous specialty",
+              "nextAriaLabel": "Next specialty",
+              "items": [
+                {
+                  "id": "service-cranial",
+                  "category": "Cranial Microsurgery",
+                  "title": "Brain Tumor & Skull Base Surgery",
+                  "description": "Fluorescence-guided resection and awake cortical mapping to safely remove tumors while preserving neurological function.",
+                  "duration": "Inpatient Care",
+                  "highlight": "3T MRI Guided",
+                  "image": "/services/axon-service-cranial.jpg",
+                  "imageAlt": "High-resolution diagnostic brain MRI and surgical planning",
+                  "ctaLabel": "Consult Now",
+                  "ctaHref": "/#contact"
+                },
+                {
+                  "id": "service-spine",
+                  "category": "Spine Surgery",
+                  "title": "Minimally Invasive Spine & Disc",
+                  "description": "Endoscopic microdiscectomy, spinal decompression, and motion-preserving cervical arthroplasty with minimal blood loss.",
+                  "duration": "Same-Day / 24h",
+                  "highlight": "Micro-Incision",
+                  "image": "/services/axon-service-spine.jpg",
+                  "imageAlt": "Spinal radiology imaging and diagnostic evaluation",
+                  "ctaLabel": "Consult Now",
+                  "ctaHref": "/#contact"
+                },
+                {
+                  "id": "service-vascular",
+                  "category": "Cerebrovascular",
+                  "title": "Aneurysm & Vascular Neurosurgery",
+                  "description": "Endovascular coiling, flow diversion, and microsurgical clipping for cerebral aneurysms and AVMs.",
+                  "duration": "Specialized ICU",
+                  "highlight": "Biplane Angio",
+                  "image": "/services/axon-service-vascular.jpg",
+                  "imageAlt": "Neurosurgical operating team performing microsurgery",
+                  "ctaLabel": "Consult Now",
+                  "ctaHref": "/#contact"
+                },
+                {
+                  "id": "service-nerve",
+                  "category": "Peripheral Nerve",
+                  "title": "Nerve Compression & Trigeminal Care",
+                  "description": "Microvascular decompression for trigeminal neuralgia and targeted release for carpal, cubital, and sciatic nerves.",
+                  "duration": "Outpatient",
+                  "highlight": "Micro-Decompression",
+                  "image": "/services/axon-service-nerve.jpg",
+                  "imageAlt": "Neurological diagnostics and nerve conduction assessment",
+                  "ctaLabel": "Consult Now",
+                  "ctaHref": "/#contact"
+                },
+                {
+                  "id": "service-radiosurgery",
+                  "category": "Non-Invasive",
+                  "title": "Stereotactic Radiosurgery",
+                  "description": "Sub-millimeter focused radiation beams treating deep cranial lesions without open incisions or general anesthesia.",
+                  "duration": "1–3 Sessions",
+                  "highlight": "Incision-Free",
+                  "image": "/services/axon-service-radiosurgery.jpg",
+                  "imageAlt": "Modern neurosurgical imaging and stereotactic suite",
+                  "ctaLabel": "Consult Now",
+                  "ctaHref": "/#contact"
+                },
+                {
+                  "id": "service-rehab",
+                  "category": "Neuro-Rehab",
+                  "title": "Post-Operative Neuro Recovery",
+                  "description": "Coordinated neuro-physiotherapy, pain management, and milestone follow-ups tailored to your surgical recovery.",
+                  "duration": "Guided Plan",
+                  "highlight": "1-on-1 Rehab",
+                  "image": "/services/axon-service-rehab.jpg",
+                  "imageAlt": "Clinician supporting post-operative patient recovery",
+                  "ctaLabel": "Consult Now",
+                  "ctaHref": "/#contact"
+                }
+              ]
+            }
+          }
+        },
+        "WhyChooseUs": {
+          "variants": {
+            "NeuroSurgicalWhyChooseUs2": {
+              "eyebrow": "Clinical Standards",
+              "title": "Built for Sub-Millimeter Accuracy and Transparent Patient Guidance",
+              "description": "Every neurological diagnosis deserves unhurried clarity. We pair hospital-grade intraoperative technology with direct surgeon-led consultations.",
+              "primaryImage": "/why-choose-us/axon-why-navigation-new.jpg",
+              "primaryImageAlt": "3T MRI neuronavigation diagnostics at Axon NeuroSurgical",
+              "secondaryImage": "/why-choose-us/axon-why-suite-new.jpg",
+              "secondaryImageAlt": "Neurosurgeon reviewing 3D brain and spine MRI scans",
+              "badgeTitle": "ISO & JCI Aligned",
+              "badgeSubtitle": "Intraoperative Neuromonitoring",
+              "items": [
+                {
+                  "id": "why-mri",
+                  "icon": "cpu",
+                  "title": "Intraoperative 3D Mapping",
+                  "description": "Real-time tractography and neuronavigation verify complete lesion targeting."
+                },
+                {
+                  "id": "why-monitoring",
+                  "icon": "shield",
+                  "title": "Continuous Neuromonitoring",
+                  "description": "Dedicated neurophysiologists monitor nerve pathways throughout every procedure."
+                },
+                {
+                  "id": "why-opinion",
+                  "icon": "file",
+                  "title": "Honest Second Opinions",
+                  "description": "Clear MRI walkthroughs and non-surgical alternatives reviewed before any recommendation."
+                },
+                {
+                  "id": "why-triage",
+                  "icon": "clock",
+                  "title": "48-Hour Urgent MRI Review",
+                  "description": "Fast-track surgical triage for acute disc herniation, trauma, or progressive weakness."
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "NeuroSurgicalTestimonials2": {
+              "eyebrow": "Patient Outcomes",
+              "title": "Stories of Mobility Restored and Peace of Mind",
+              "subtitle": "Verified feedback from patients treated for spinal, cranial, and peripheral nerve conditions.",
+              "prevAriaLabel": "Previous patient story",
+              "nextAriaLabel": "Next patient story",
+              "items": [
+                {
+                  "id": "testimonial-1",
+                  "name": "Elena Rostova",
+                  "treatment": "Cervical Disc Arthroplasty",
+                  "rating": 5,
+                  "quote": "After months of radiating arm pain, the Axon team walked me through my MRI slice by slice. My minimally invasive cervical disc replacement had me walking the same afternoon with zero nerve pain.",
+                  "avatar": "/testimonials/ddms-patient-1.jpg",
+                  "avatarAlt": "Portrait of patient Elena Rostova"
+                },
+                {
+                  "id": "testimonial-2",
+                  "name": "Marcus Vance",
+                  "treatment": "Lumbar Microdiscectomy",
+                  "rating": 5,
+                  "quote": "I was terrified of spine surgery, but their conservative-first approach and tubular micro-incision technique made recovery remarkably smooth. I returned to light desk work within ten days.",
+                  "avatar": "/testimonials/ddms-patient-2.jpg",
+                  "avatarAlt": "Portrait of patient Marcus Vance"
+                },
+                {
+                  "id": "testimonial-3",
+                  "name": "Priya Nair",
+                  "treatment": "Trigeminal Decompression",
+                  "rating": 5,
+                  "quote": "Living with trigeminal neuralgia was debilitating. The microvascular decompression at Axon NeuroSurgical gave me immediate, lasting relief and my life back.",
+                  "avatar": "/testimonials/ddms-patient-3.jpg",
+                  "avatarAlt": "Portrait of patient Priya Nair"
+                },
+                {
+                  "id": "testimonial-4",
+                  "name": "David Sterling",
+                  "treatment": "Cranial Second Opinion",
+                  "rating": 5,
+                  "quote": "What stood out most was their honesty. They reviewed my scans, explained why stereotactic monitoring was safer than immediate open surgery, and supported me every step.",
+                  "avatar": "/testimonials/ddms-patient-4.jpg",
+                  "avatarAlt": "Portrait of patient David Sterling"
+                }
+              ]
+            }
+          }
+        },
+        "Faq": {
+          "variants": {
+            "NeuroSurgicalFaq2": {
+              "eyebrow": "Common Questions",
+              "title": "Preparing for Your Neurosurgical Consultation",
+              "subtitle": "Helpful answers regarding MRI reviews, minimally invasive options, insurance, and recovery timelines.",
+              "image": "/faq/axon-faq-consultation-new.jpg",
+              "imageAlt": "Neurosurgeon explaining a brain and cervical spine MRI scan to a patient",
+              "calloutTitle": "Need an Urgent MRI Review?",
+              "calloutText": "Contact our neurosurgical triage coordinator for priority 48-hour imaging evaluation.",
+              "calloutCtaLabel": "Call +1 00000 00000",
+              "calloutCtaHref": "tel:+10000000000",
+              "items": [
+                {
+                  "id": "faq-1",
+                  "question": "What should I bring to my first neurosurgical consultation?",
+                  "answer": "Please bring your recent MRI or CT scan disc/digital link, radiology reports, a list of current medications, and any prior physical therapy or pain management notes."
+                },
+                {
+                  "id": "faq-2",
+                  "question": "Does a neurosurgical consultation always mean I will need surgery?",
+                  "answer": "No. Over half of the patients we evaluate are successfully managed with targeted physical therapy, image-guided injections, or structured observation without surgery."
+                },
+                {
+                  "id": "faq-3",
+                  "question": "How long is recovery after minimally invasive spine surgery?",
+                  "answer": "Most patients undergoing microdiscectomy or endoscopic decompression walk the same day and resume light daily activities within 1 to 2 weeks."
+                },
+                {
+                  "id": "faq-4",
+                  "question": "Do you offer second-opinion reviews for brain or spine surgery recommendations?",
+                  "answer": "Yes. Our board-certified neurosurgeons provide comprehensive second-opinion evaluations—either in-clinic or after reviewing your high-resolution imaging."
+                },
+                {
+                  "id": "faq-5",
+                  "question": "Do you accept major health insurance plans?",
+                  "answer": "Yes, we work with most major PPO and commercial medical insurance carriers and assist with pre-authorization for diagnostic imaging and surgical procedures."
+                }
+              ]
+            }
+          }
+        },
+        "Contact": {
+          "variants": {
+            "NeuroSurgicalContact2": {
+              "eyebrow": "Schedule Evaluation",
+              "title": "Consult With Our Brain & Spine Specialists",
+              "subtitle": "Submit your details or request a second opinion—our clinical coordinator will confirm your appointment promptly.",
+              "panelTitle": "Axon NeuroSurgical",
+              "panelDescription": "Dedicated cranial, spine, and peripheral nerve surgical center in New York.",
+              "infoItems": [
+                {
+                  "id": "contact-phone",
+                  "icon": "phone",
+                  "label": "Clinical Triage Line",
+                  "value": "+1 00000 00000",
+                  "href": "tel:+10000000000"
+                },
+                {
+                  "id": "contact-email",
+                  "icon": "mail",
+                  "label": "Patient Coordination",
+                  "value": "info@xyz.com",
+                  "href": "mailto:info@xyz.com"
+                },
+                {
+                  "id": "contact-address",
+                  "icon": "map",
+                  "label": "Institute Address",
+                  "value": "123 Main St, New York, NY, USA"
+                },
+                {
+                  "id": "contact-hours",
+                  "icon": "clock",
+                  "label": "Clinic Hours",
+                  "value": "Mon – Sat: 8:00 AM – 6:30 PM"
+                }
+              ],
+              "form": {
+                "heading": "Request a Consultation",
+                "subheading": "All inquiries and MRI review requests are handled confidentially within 1 business day.",
+                "nameLabel": "Full Name",
+                "namePlaceholder": "John Carter",
+                "emailLabel": "Email Address",
+                "emailPlaceholder": "info@xyz.com",
+                "phoneLabel": "Phone Number",
+                "phonePlaceholder": "+1 00000 00000",
+                "treatmentLabel": "Specialty / Concern",
+                "treatmentOptions": [
+                  "Minimally Invasive Spine & Disc",
+                  "Brain Tumor & Cranial Microsurgery",
+                  "Cerebrovascular / Aneurysm Care",
+                  "Peripheral Nerve & Trigeminal Care",
+                  "Stereotactic Radiosurgery",
+                  "Second Opinion MRI Review"
+                ],
+                "messageLabel": "Clinical Notes or Preferred Dates",
+                "messagePlaceholder": "Briefly describe symptoms, prior imaging, or preferred consultation dates...",
+                "submitLabel": "Submit Request",
+                "successTitle": "Consultation Request Received",
+                "successMessage": "Thank you for contacting Axon NeuroSurgical. Our clinical coordinator will reach out shortly to confirm your appointment.",
+                "resetLabel": "Send Another Request"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "components": [
+        {
+          "key": "Hero",
+          "component": "NeuroSurgicalHero2"
+        },
+        {
+          "key": "AboutUs",
+          "component": "NeuroSurgicalAboutUs2"
+        },
+        {
+          "key": "Services",
+          "component": "NeuroSurgicalServices2"
+        },
+        {
+          "key": "WhyChooseUs",
+          "component": "NeuroSurgicalWhyChooseUs2"
+        },
+        {
+          "key": "Testimonials",
+          "component": "NeuroSurgicalTestimonials2"
+        },
+        {
+          "key": "Faq",
+          "component": "NeuroSurgicalFaq2"
+        },
+        {
+          "key": "Contact",
+          "component": "NeuroSurgicalContact2"
+        }
+      ]
+    }
+  }
+}
